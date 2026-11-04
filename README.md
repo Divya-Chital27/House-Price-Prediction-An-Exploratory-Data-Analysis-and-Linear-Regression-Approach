@@ -187,8 +187,8 @@ This is my **first ML project**, so suggestions are very welcome. If you have id
 
 ## 📬 Connect with me
 
-- 💼 LinkedIn: (www.linkedin.com/in/divya-chital-85b641266)
-- 🐙 GitHub: (https://github.com/Divya-Chital27)
+- 💼 LinkedIn:www.linkedin.com/in/divya-chital-85b641266
+- 🐙 GitHub:https://github.com/Divya-Chital27
 
 ---
 
